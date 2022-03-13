@@ -1,0 +1,23 @@
+.privacy-policy {
+    padding: 10% 0;
+}
+
+.privacy-policy-header-container {
+    margin-bottom: 10%;
+}
+
+.privacy-policy-title {
+    padding: 2rem 0 0.5rem 0;
+}
+
+.privacy-policy-content {
+    margin: 1.2rem 0;
+}
+
+.privacy-policy-link {
+    word-wrap: break-word;
+}
+
+.privacy-policy-list-container {
+    margin-left: 1.2rem;
+}
